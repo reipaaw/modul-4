@@ -1,0 +1,9 @@
+Universitas hanya “menyimpan daftar nama mahasiswa.”
+Kalau universitasnya tutup, mahasiswanya tetap ada sebagai individu di luar universitas itu.
+
+🧠 Jadi, objek Mahasiswa tetap hidup walaupun objek Universitas dihapus.
+
+Sebuah mobil memiliki mesin sebagai bagian pentingnya.
+Kalau mobil itu dihancurkan, mesinnya juga dianggap tidak punya fungsi lagi (karena bagian dari keseluruhan mobil).
+
+🧠 Jadi, objek Mesin hidup dan mati bersama objek Mobil.

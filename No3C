@@ -1,0 +1,3 @@
+Polimorfisme membuat kode lebih fleksibel karena memungkinkan satu method menangani berbagai objek dengan perilaku 
+berbeda tanpa perlu mengetahui tipe objeknya secara spesifik.
+Ini menjadikan program lebih mudah dikembangkan, dirawat, dan dapat diperluas tanpa banyak perubahan.

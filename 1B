@@ -1,0 +1,6 @@
+Pewarisan langsung → anak mewarisi dan menggunakan method induk tanpa mengubahnya.
+
+Overriding → anak menimpa method induk agar perilakunya berbeda sesuai kebutuhan kelas anak.
+
+🔸 Jadi, hasil berbeda muncul karena pada overriding, method jalan() diubah isi pesannya — sedangkan pada pewarisan langsung,
+ isi method tetap sama seperti di kelas induk.

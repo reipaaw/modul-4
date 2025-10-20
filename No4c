@@ -1,0 +1,21 @@
+🔹 Agregasi
+
+Agregasi adalah hubungan antara dua objek di mana objek bagian dapat hidup sendiri tanpa objek utama.
+Objek utama hanya menyimpan referensi ke objek bagian, tapi tidak menguasai penuh keberadaannya.
+
+➡ Contoh:
+Universitas memiliki daftar Mahasiswa.
+Kalau Universitas dihapus, Mahasiswa tetap bisa ada dan tidak ikut hilang.
+
+🧠 Ciri utama: hubungan lemah (weak relationship).
+
+🔹 Komposisi
+
+Komposisi adalah hubungan antara dua objek di mana objek bagian sepenuhnya bergantung pada objek utama.
+Jika objek utama dihapus, maka objek bagian juga dianggap hilang atau tidak berguna lagi.
+
+➡ Contoh:
+Mobil memiliki Mesin.
+Kalau Mobil dihapus, Mesinnya juga ikut dianggap tidak ada karena bagian dari Mobil.
+
+🧠 Ciri utama: hubungan kuat (strong relationship).
